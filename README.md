@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m an ambitious self-taught software developer 
 
 ## 🔨 **My Projects**  
 I currently have several repositories covering a range of projects, including:  
-- **[local-rag-ollama](https://github.com/resurgentdev/local-rag-ollama):** A retrieval-augmented generation pipeline exploring Ollama integration.  
+- **[local-rag-ollama-basic-demo](https://github.com/resurgentdev/local-rag-ollama-basic-demo):** A retrieval-augmented generation pipeline exploring Ollama integration.  
 - **[google-data-analyzer](https://github.com/resurgentdev/google-data-analyzer):** A project showcasing advanced data analysis and visualization capabilities.  
 - **More Repos:** All my repositories are educational and a part of my professional growth. They are documented to highlight progress, ideas, and plans for the future.  
 
